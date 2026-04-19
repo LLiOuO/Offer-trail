@@ -26,6 +26,39 @@ Offer Trail 是一个面向大学生和应届生的求职流程管理应用，�
 - Radix UI
 - TanStack Query
 
+## 在线演示地址
+
+- Live Demo（主地址）：https://your-demo-url.example.com
+- Mirror（备用地址）：https://your-backup-demo-url.example.com
+
+> 建议将上述链接替换为你部署后的真实地址（如 Vercel / Netlify）。
+
+## 项目截图区
+
+> 建议至少放 4 张图：首页、看板、表格、日历，能快速体现完整能力。
+
+### 1) 首页（产品定位）
+
+![Offer Trail 首页截图](https://placehold.co/1200x675/f4efe6/1a1a1a?text=Offer+Trail+Home+Screenshot)
+
+### 2) 看板视图（阶段管理）
+
+![Offer Trail 看板截图](https://placehold.co/1200x675/efe8da/1a1a1a?text=Kanban+View+Screenshot)
+
+### 3) 表格视图（信息总览）
+
+![Offer Trail 表格截图](https://placehold.co/1200x675/e9e1d0/1a1a1a?text=Table+View+Screenshot)
+
+### 4) 日历视图（时间管理）
+
+![Offer Trail 日历截图](https://placehold.co/1200x675/e2d9c6/1a1a1a?text=Calendar+View+Screenshot)
+
+### 截图建议
+
+- 分辨率建议：1200 x 675（16:9）
+- 命名建议：home.png / kanban.png / table.png / calendar.png
+- 内容建议：保留一组有代表性的示例数据，突出流程进展与复盘能力
+
 ## 快速开始
 
 ### 1. 安装 Node.js（推荐 18+）
