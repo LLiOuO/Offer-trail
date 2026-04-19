@@ -28,8 +28,8 @@ Offer Trail 是一个面向大学生和应届生的求职流程管理应用，�
 
 ## 在线演示地址
 
-- Live Demo（主地址）：https://your-demo-url.example.com
-- Mirror（备用地址）：https://your-backup-demo-url.example.com
+- Live Demo（主地址）：https://go2ile.nocode.host
+- Mirror（备用地址）：https://go2ile.nocode.host
 
 > 建议将上述链接替换为你部署后的真实地址（如 Vercel / Netlify）。
 
