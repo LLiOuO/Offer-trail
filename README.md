@@ -31,11 +31,7 @@ Offer Trail 是一个面向大学生和应届生的求职流程管理应用，�
 - Live Demo（主地址）：https://go2ile.nocode.host
 - Mirror（备用地址）：https://go2ile.nocode.host
 
-> 建议将上述链接替换为你部署后的真实地址（如 Vercel / Netlify）。
-
 ## 项目截图区
-
-> 建议至少放 4 张图：首页、看板、表格、日历，能快速体现完整能力。
 
 截图目录：`public/screenshots/`
 
