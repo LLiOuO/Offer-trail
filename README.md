@@ -37,26 +37,28 @@ Offer Trail 是一个面向大学生和应届生的求职流程管理应用，�
 
 > 建议至少放 4 张图：首页、看板、表格、日历，能快速体现完整能力。
 
+截图目录：`public/screenshots/`
+
 ### 1) 首页（产品定位）
 
-![Offer Trail 首页截图](https://placehold.co/1200x675/f4efe6/1a1a1a?text=Offer+Trail+Home+Screenshot)
+![Offer Trail 首页截图](public/screenshots/01-home.png)
 
 ### 2) 看板视图（阶段管理）
 
-![Offer Trail 看板截图](https://placehold.co/1200x675/efe8da/1a1a1a?text=Kanban+View+Screenshot)
+![Offer Trail 看板截图](public/screenshots/02-dashboard.png)
 
 ### 3) 表格视图（信息总览）
 
-![Offer Trail 表格截图](https://placehold.co/1200x675/e9e1d0/1a1a1a?text=Table+View+Screenshot)
+![Offer Trail 表格截图](public/screenshots/03-table.png)
 
 ### 4) 日历视图（时间管理）
 
-![Offer Trail 日历截图](https://placehold.co/1200x675/e2d9c6/1a1a1a?text=Calendar+View+Screenshot)
+![Offer Trail 日历截图](public/screenshots/04-calendar.png)
 
 ### 截图建议
 
 - 分辨率建议：1200 x 675（16:9）
-- 命名建议：home.png / kanban.png / table.png / calendar.png
+- 命名建议：01-home.png / 02-dashboard.png / 03-table.png / 04-calendar.png
 - 内容建议：保留一组有代表性的示例数据，突出流程进展与复盘能力
 
 ## 快速开始
